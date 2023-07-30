@@ -30,3 +30,9 @@
 https://huggingface.co/spaces/Shru/Rice_Disease_Classifier
 
 https://github.com/OmdenaAI/laguna-philippines-rice-disease/assets/23378836/31285f60-55b1-4633-a791-ace42488b6aa
+
+
+
+## Resources
+- Omdena Local Chapter [Link](https://omdena.com/chapter-challenges/creating-a-rice-disease-classifier-using-computer-vision-through-open-source-data/)
+- Omdena Github [Link](https://github.com/OmdenaAI/laguna-philippines-rice-disease)
